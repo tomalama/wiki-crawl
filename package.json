@@ -1,14 +1,15 @@
 {
-  "name": "wiki-crawl",
+  "name": "wikipedia-crawler",
   "version": "0.0.1",
-  "description": "See how everything is related",
+  "description": "It all leads to philosophy",
   "keywords": [
     "wiki",
     "wikipedia",
-    "crawl"
+    "crawl",
+    "crawler"
   ],
   "author": "tomalama <tommynguyen233@gmail.com>",
-  "homepage": "https://github.com/tomalama/wiki-crawl",
+  "homepage": "https://github.com/tomalama/wikipedia-crawler",
   "license": "MIT",
   "main": "lib/index.js",
   "directories": {
@@ -22,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomalama/wiki-crawl"
+    "url": "https://github.com/tomalama/wikipedia-crawler"
   },
   "dependencies": {
     "axios": "^0.19.0",
