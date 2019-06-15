@@ -12,7 +12,7 @@ npx wikipedia-crawler start -v -s Canada
 
 ## Demo
 
-<img alt="demo" src="https://i.imgur.com/PcR0sOb.gif">
+<img alt="demo" src="https://i.imgur.com/R4hXVwH.gif">
 
 ## Usage
 
