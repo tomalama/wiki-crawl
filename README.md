@@ -1,5 +1,19 @@
 # Wikipedia Crawler
 
+## About
+
+Explore how all [Wikipedia](https://en.wikipedia.org/) articles seemingly lead to [philosophy](https://en.wikipedia.org/wiki/Philosophy).
+
+## CLI
+
+```shell
+npx wikipedia-crawler start -v -s Canada
+```
+
+## Demo
+
+<img alt="demo" src="https://i.imgur.com/PcR0sOb.gif">
+
 ## Usage
 
 ```javascript
@@ -18,10 +32,4 @@ wikipediaCrawler("Luigi", "Philosophy").then(res => console.log(res));
   "Philosophy"
 ];
 */
-```
-
-## CLI
-
-```shell
-wikipedia-crawler start -s Canada
 ```
