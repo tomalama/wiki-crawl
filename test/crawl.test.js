@@ -1,4 +1,4 @@
-const { wikipediaCrawler } = require("../lib/index");
+const { wikipediaCrawler } = require("../lib/crawl");
 
 it("should equal expected array", async () => {
   const END_TITLE = "Philosophy";

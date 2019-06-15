@@ -19,3 +19,9 @@ wikipediaCrawler("Luigi", "Philosophy").then(res => console.log(res));
 ];
 */
 ```
+
+## CLI
+
+```shell
+wikipedia-crawler start -s Canada
+```
